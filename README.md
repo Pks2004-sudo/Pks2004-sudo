@@ -1,9 +1,5 @@
 # 👋 Hey, I'm K S PAVAN
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/de95f33b-6602-4cb8-8a0b-76024cbeee9f"
-       width="220" />
-</p>
 
 
 
