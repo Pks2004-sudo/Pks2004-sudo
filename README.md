@@ -35,6 +35,11 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+
 ### 🌐 Frontend & Tools
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![React](https://img.shields.io/badge/React-cyan)
