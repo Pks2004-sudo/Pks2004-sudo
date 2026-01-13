@@ -53,7 +53,6 @@
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=white)
 
 ---
+## 🔥 GitHub Streak
 
-## 📊 GitHub Streak
-
-![GitHub Streak]([https://streak-stats.demolab.com?user=Pavan2004](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md))
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
