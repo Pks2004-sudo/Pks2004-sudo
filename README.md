@@ -5,7 +5,7 @@
 
 
 🎓 **CSE (AI & ML)** student at **Vidyavardhaka College of Engineering**  
-📊 **CGPA: 7.58**  
+📊 **CGPA: 7.68**  
 💡 Interested in **AI/ML, software development, and real-world applications**
 
 ---
